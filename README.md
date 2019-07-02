@@ -1,33 +1,9 @@
 # One Pixel Attack
 
 
-## How It Works
 
 
-
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/Hyperparticle/one-pixel-attack-keras
-cd ./one-pixel-attack-keras
-```
-
-2. Install the python packages in requirements.txt if you don't have them already.
-
-```bash
-pip install -r ./requirements.txt
-```
-
-3. Run the iPython tutorial notebook with Jupyter.
-
-```bash
-jupyter notebook ./one-pixel-attack.ipynb
-```
-
-
-
-The available models currently are:
+Networks:
 - `lenet` - [LeNet, first CNN model](http://yann.lecun.com/exdb/lenet/)
 - `pure_cnn` - [A NN with just convolutional layers](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 - `net_in_net` - [Network in Network](https://arxiv.org/abs/1312.4400)
