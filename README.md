@@ -1,5 +1,5 @@
 # One Pixel Attack
-(https://colab.research.google.com/drive/1Zq1kGP9C7i-70-SXyuEEaqYngtyQZMn7) [![Gitter chat]
+
 
 ## How It Works
 
